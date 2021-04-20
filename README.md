@@ -1,5 +1,3 @@
-##  VAriable Detection, Interlinking and Summarization (VADIS) project
-
 Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlinking and Summarization** (VADIS).
 
 ## Introduction
@@ -17,8 +15,8 @@ The kickoff workshop is planned to be on two afternoons in **July 8-9, 2021**. D
 
 ## Work packages
 
-Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs.
-![WPs of VADIS](VADIS-WPs.png)
+Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs. 
+[WPs of VADIS(https://github.com/vadis-project/vadis.github.io/blob/main/VADIS-WPs.png)]![WPs of VADIS](VADIS-WPs.png)
 
 ## Partners
 - [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko, Philipp Mayr
