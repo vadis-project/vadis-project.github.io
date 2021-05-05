@@ -35,3 +35,23 @@ DFG, e-Research Technologies
 
 ### Publications
 
+1.	Boland, K., Ritze, D., Eckert, K., & Mathiak, B. (2012). Identifying references to datasets in publications. In International Conference on Theory and Practice of Digital Libraries (pp. 150-161). Springer, Berlin, Heidelberg. DOI: http://doi.org/10.1007/978-3-642-33290-6_17
+
+2.	Lauscher, A., Glavaš, G., & Eckert, K. (2017). University of Mannheim@ CLSciSumm-17: Citation-based summarization of scientific articles using semantic textual similarity. In CEUR workshop proceedings (Vol. 2002, pp. 33-42). RWTH.
+
+3.	Lauscher, A., Glavaš, G., Ponzetto, S. P., & Eckert, K. (2018a). Investigating the role of argumentation in the rhetorical analysis of scientific publications with neural multi-task learning models. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 3326-3338). https://www.aclweb.org/anthology/D18-1370
+
+4.	Lauscher, A., Glavaš, G., & Eckert, K. (2018b). Arguminsci: A tool for analyzing argumentation and rhetorical aspects in scientific writing. Proceedings of the 5th Workshop on Argument Mining (ArgMining@EMNLP 2018), pp. 22-28. https://www.aclweb.org/anthology/W18-5203/
+
+5.	Nanni, F., Dietz, L., Faralli, S., Glavaš, G., & Ponzetto, S. P. (2016). Capturing interdisciplinarity in academic abstracts. D-lib magazine, 22(9/10). http://doi.org/10.1045/september2016-nanni
+
+6.	Nanni, F., Ponzetto, S. P., & Dietz, L. (2017). Building entity-centric event collections. In 2017 ACM/IEEE Joint Conference on Digital Libraries (JCDL) (pp. 199-208). IEEE.
+
+7.	Nanni, F., Ponzetto, S. P., & Dietz, L. (2018). Entity-aspect linking: providing fine-grained semantics of entities in context. In Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries (pp. 49-58).
+
+8.	Zapilko, B., Boland, K., & Kern, D. (2018). A LOD backend infrastructure for scientific search portals. In European Semantic Web Conference (pp. 729-744). Springer, Cham.
+
+9.	Zielinski, A., & Mutschke, P. (2017). Mining Social Science Publications for Survey Variables. In Proceedings of the Second Workshop on NLP and Computational Social Science (NLP+CSS), pp. 47-52. http://www.aclweb.org/anthology/W17-2907
+
+10.	Zielinski, A., & Mutschke, P. (2018). Towards a Gold Standard Corpus for Variable Detection and Linking in Social Science Publications. In International Conference on Language Resources and Evaluation (LREC).
+
