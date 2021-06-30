@@ -13,7 +13,7 @@ To achieve this, **we will analyze and link variables in context by identifying 
 
 ## Kickoff workshop
 
-The kickoff workshop is planned to be on two afternoons in **July 8-9, 2021**. Details about the workshop will follow here.
+The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021**. Details about the workshop will follow here.
 
 ## Work packages
 
