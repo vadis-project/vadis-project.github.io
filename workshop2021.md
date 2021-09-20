@@ -1,6 +1,6 @@
 # VADIS Kickoff Workshop
 
-The kickoff workshop is planned to be on **September 23-24, 2021**(Thursday/Friday). 
+The kickoff workshop is planned to be on **September 23-24, 2021** (Thursday/Friday). 
 
 We ask all participants of the workshop to register.
 Please register via the [form](https://forms.gle/6CTYWu8P1PZ4zaJW6). 
@@ -9,7 +9,7 @@ The Zoom link will be sent before the workshop.
 ## Schedule of the workshop
 All times are Central European Summer Time (CEST).
 
-Day 1 (Sept. 23)
+Day 1 (Sept. 23) -- 3:00-6:00pm
 * * * * *
 	3pm: Welcome, opening remarks
 	3:15pm: Project presentation
@@ -18,13 +18,13 @@ Day 1 (Sept. 23)
 	"Facilitating scientific knowledge discovery through improved
 	representation learning and extreme summarization"
 	4:45-5:00pm: Short break
-	5:00pm: Panel 1: Open Issues in Mining Scientific Pubs
+	5:00pm: Panel 1: Open Issues in Mining Scientific Publications
 	6:00pm End of day 1
 
-Day 2 (Sept. 24)
+Day 2 (Sept. 24) -- 3:00-6:00pm
 * * * * *
 	3pm: Welcome back
-	3:15pm: Panel 2: entity and dataset linking in scientific texts
+	3:15pm: Panel 2: Entity and dataset linking in scientific texts
 	4:30-4:45pm: Short break
 	4:45pm: Breakout sessions
 	5:45pm: Concluding remarks
