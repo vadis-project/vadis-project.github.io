@@ -13,7 +13,8 @@ To achieve this, **we will analyze and link variables in context by identifying 
 
 ## Kickoff workshop
 
-The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021**. Details about the workshop will follow here.
+The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021**. 
+All details about the workshop are here: [Schedule of the workshop](workshop2021.md).
 
 ## Work packages
 
@@ -25,6 +26,17 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 - [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto
 - [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert
 - [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll, Andrea Zielinski
+
+
+## Advisory board
+- Sören Auer: TIB Hannover, Germany 
+- Elizabeth Bishop: GESIS, Cologne, Germany  
+- Jan Goebel: SOEP. Berlin, Germany
+- Dirk Hovy: Bocconi University, Milano, Italy
+- Florian Keusch: University of Mannheim, Germany
+- Federico Nanni: the Alan Turing Institute, London, United Kingdom
+- Franciska de Jong: University Utrecht, The Netherlands
+
 
 ## Contact
 Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
