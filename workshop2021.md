@@ -9,25 +9,25 @@ The Zoom link will be sent before the workshop.
 ## Schedule of the workshop
 All times are Central European Summer Time (CEST).
 
-Day 1 (Sept. 23) -- 3:00-6:00pm
+Day 1 (Sept. 23) -- 3:00-6:00 pm
 * * * * *
-	3pm: Welcome, opening remarks
-	3:15pm: Project presentation
-	3:30-3:55pm: Short break
-	4:00pm: Keynote by Arman Cohan: 
+	3 pm: Welcome, opening remarks
+	3:15 pm: Project presentation
+	3:30-3:55 pm: Short break
+	4:00 pm: Keynote by Arman Cohan: 
 	"Facilitating scientific knowledge discovery through improved
 	representation learning and extreme summarization"
-	4:45-5:00pm: Short break
-	5:00pm: Panel 1: Open Issues in Mining Scientific Publications
-	6:00pm End of day 1
+	4:45-5:00 pm: Short break
+	5:00 pm: Panel 1: Open Issues in Mining Scientific Publications
+	6:00 pm End of day 1
 
-Day 2 (Sept. 24) -- 3:00-6:00pm
+Day 2 (Sept. 24) -- 3:00-6:00 pm
 * * * * *
-	3pm: Welcome back
-	3:15pm: Panel 2: Entity and dataset linking in scientific texts
-	4:30-4:45pm: Short break
-	4:45pm: Breakout sessions
-	5:45pm: Concluding remarks
+	3 pm: Welcome back
+	3:15 pm: Panel 2: Entity and dataset linking in scientific texts
+	4:30-4:45 pm: Short break
+	4:45 pm: Breakout sessions
+	5:45 pm: Concluding remarks
 
 
 <hr />
