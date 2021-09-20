@@ -14,7 +14,7 @@ Day 1 (Sept. 23) -- 3:00-6:00 pm
 	3 pm: Welcome, opening remarks
 	3:15 pm: Project presentation
 	3:30-3:55 pm: Short break
-	4:00 pm: Keynote by Arman Cohan: 
+	4:00 pm: Keynote by [Arman Cohan](https://armancohan.com/): 
 	"Facilitating scientific knowledge discovery through improved
 	representation learning and extreme summarization"
 	4:45-5:00 pm: Short break
