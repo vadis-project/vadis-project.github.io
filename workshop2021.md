@@ -1,6 +1,6 @@
 # VADIS Kickoff Workshop
 
-The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021**. 
+The kickoff workshop is planned to be on **September 23-24, 2021**(Thursday/Friday). 
 
 We ask all participants of the workshop to register.
 Please register via the **[form](https://forms.gle/6CTYWu8P1PZ4zaJW6)**. 
@@ -41,3 +41,5 @@ Day 2 (Sept. 24)
 
 Bio: **Arman Cohan** is a Research Scientist at the Allen Institute for AI and an affiliate Assistant Professor at University of Washington. His research primarily focuses on representation learning, language modeling and transfer learning methods in NLP, as well as their applications in the scientific and health domains. He obtained his PhD at Georgetown University in 2018 and research has been recognized with best paper award at EMNLP 2017, honorable mention at COLING 2018, and Harold N. Glassman Distinguished Doctoral Dissertation award in 2019.
 
+
+[Back to the VADIS homepage](Readme.md)
