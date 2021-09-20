@@ -6,13 +6,15 @@ We ask all participants of the workshop to register.
 Please register via the [form](https://forms.gle/6CTYWu8P1PZ4zaJW6).
 
 ## Schedule of the workshop
+All times are Central European Time (CET).
 
 Day 1 (Sept. 23)
 * * * * *
 	3pm: Welcome, opening remarks
 	3:15pm: Project presentation
 	3:30-3:55pm: Short break
-	4:00pm: Keynote by Arman Cohan: "Facilitating scientific knowledge discovery through improved representation learning and extreme summarization"
+	4:00pm: Keynote by Arman Cohan: 
+	"Facilitating scientific knowledge discovery through improved representation learning and extreme summarization"
 	4:45-5:00pm: Short break
 	5:00pm: Panel 1: Open Issues in Mining Scientific Pubs
 	6:00pm End of day 1
