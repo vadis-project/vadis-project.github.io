@@ -13,12 +13,13 @@ Day 1 (Sept. 23) -- 3:00-6:00 pm
 * * * * *
 	3 pm: Welcome, opening remarks
 	3:15 pm: Project presentation
-	3:30-3:55 pm: Short break
+	3:30-3:40 pm: Introduction of the Advisory Board
+	3:40-3:55 pm: Short break and get together
 	4:00 pm: Keynote by Arman Cohan: 
 	"Facilitating scientific knowledge discovery through improved
 	representation learning and extreme summarization"
-	4:45-5:00 pm: Short break
-	5:00 pm: Panel 1: Open Issues in Mining Scientific Publications
+	4:40-4:45 pm: Short break
+	4:45 pm: Panel 1: Open Issues in Mining Scientific Publications
 	6:00 pm End of day 1
 
 Day 2 (Sept. 24) -- 3:00-6:00 pm
