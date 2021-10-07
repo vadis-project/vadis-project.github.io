@@ -36,6 +36,8 @@ Day 2 (Sept. 24) -- 3:00-6:00 pm
 
 ## Keynote
 
+The video recording of the keynote talk is online: [Keynote on Youtube, 38min](https://www.youtube.com/watch?v=NWTpOFXryW8).  
+
 **Title**: Facilitating scientific knowledge discovery through improved representation learning and extreme summarization
 
 **Abstract**: As the pace of scientific publication continues to increase, technologies to help users to search, discover, and understand the scientific literature have become critical. In this talk I will discuss two of our works in this direction that specifically facilitate discovery of relevant scientific information. First I'll present SPECTER, a representation learning model for scientific papers that leverages the citation graph along with the power of Transformers in encoding textual information. SPECTER paper embeddings result in significant improvements in many downstream applications, including recommendations, user feeds, citation ranking, and peer review assistant tools. In the second part of the talk I will discuss TL;DR, an extreme summarization dataset and model for scientific papers that provides a single sentence summary of an entire scientific paper. Our model uses a simple scaffolding strategy to leverage the title of papers during training and is able to achieve substantial improvements on this low-resource and challenging task.
