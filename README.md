@@ -5,7 +5,8 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ## News
 
-![The VADIS team met for a first face2face meeting in Mannheim, October 29, 2021](team.jpeg)
+* The VADIS team met for a first face2face meeting in Mannheim, October 29, 2021.
+![Team](team.jpeg)
 
 ## Introduction
 Nowadays there is a growing trend in many scientific disciplines to support researchers by providing enhanced information access through linking of publications and underlying datasets. Open Science encourages scientiﬁc practices in which all research data is interlinked and contextualized to enhance reproducibility and reusability of research results. Ideally, publications that report on a result of an empirical study should thus contain a direct link to the cited dataset and lead the reader directly to the research data that underlies the publication.
