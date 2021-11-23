@@ -5,7 +5,10 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ## News
 
+* The Shared Task "Survey Variable Identification in Social Science Publications" organized by VADIS will run in co-location with the 3rd on Scholarly Document Processing at COLING 2022.
 * The VADIS team met for a first face2face meeting in Mannheim, October 29, 2021.
+
+## Team
 ![Team](team.jpeg)
 
 ## Introduction
