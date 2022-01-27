@@ -2,7 +2,7 @@
 
 Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlinking and Summarization** (VADIS).
 
-VADIS logo ![logo](VADIS-logo_small.png).
+![logo](VADIS-logo_small.png).
 
 
 ## News
