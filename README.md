@@ -33,10 +33,10 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 [WPs of VADIS](https://github.com/vadis-project/vadis.github.io/blob/main/VADIS-WPs.png) ![WPs of VADIS](VADIS-WPs.png)
 
 ## Partners
-- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko, Philipp Mayr
-- [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto
-- [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert
-- [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll, Andrea Zielinski
+- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
+- [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto (PI), Tornike Tsereteli (PhD student)
+- [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
+- [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
 
 
 ## Advisory board
