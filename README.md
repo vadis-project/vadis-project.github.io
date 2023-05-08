@@ -59,6 +59,7 @@ DFG, e-Research Technologies
 ### Publications (project publications)
 * Tsereteli, T., Kartal, Y. S., Ponzetto, S. P., Zielinski, A., Eckert, K., & Mayr, P. (2022). Overview of the SV-Ident 2022 Shared Task on Survey Variable Identification in Social Science Publications. In Proceedings of the Third Workshop on Scholarly Document Processing (pp. 229–246). Association for Computational Linguistics. https://aclanthology.org/2022.sdp-1.29/
 * Kartal, Y. S., Takeshita, S., Tsereteli, T., Eckert, K., Kroll, H., Mayr, P., Ponzetto, S. P., Zapilko, B., & Zielinski, A. (2022). Towards Automated Survey Variable Search and Summarization in Social Science Publications (arXiv:2209.06804). http://arxiv.org/abs/2209.06804
+* Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. 2022. X-SCITLDR: cross-lingual extreme summarization of scholarly documents. In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3529372.3530938](https://doi.org/10.1145/3529372.3530938)
 
 
 ### Related Publications
@@ -82,5 +83,3 @@ DFG, e-Research Technologies
 9.	Zielinski, A., & Mutschke, P. (2017). Mining Social Science Publications for Survey Variables. In Proceedings of the Second Workshop on NLP and Computational Social Science (NLP+CSS), pp. 47-52. http://www.aclweb.org/anthology/W17-2907
 
 10.	Zielinski, A., & Mutschke, P. (2018). Towards a Gold Standard Corpus for Variable Detection and Linking in Social Science Publications. In International Conference on Language Resources and Evaluation (LREC).
-
-11. Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. 2022. X-SCITLDR: cross-lingual extreme summarization of scholarly documents. In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3529372.3530938](https://doi.org/10.1145/3529372.3530938)
