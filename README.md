@@ -56,7 +56,12 @@ Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 DFG, e-Research Technologies
 2021-2023, 36 months
 
-### Publications
+### Publications (project publications)
+* Tsereteli, T., Kartal, Y. S., Ponzetto, S. P., Zielinski, A., Eckert, K., & Mayr, P. (2022). Overview of the SV-Ident 2022 Shared Task on Survey Variable Identification in Social Science Publications. In Proceedings of the Third Workshop on Scholarly Document Processing (pp. 229–246). Association for Computational Linguistics. https://aclanthology.org/2022.sdp-1.29/
+* Kartal, Y. S., Takeshita, S., Tsereteli, T., Eckert, K., Kroll, H., Mayr, P., Ponzetto, S. P., Zapilko, B., & Zielinski, A. (2022). Towards Automated Survey Variable Search and Summarization in Social Science Publications (arXiv:2209.06804). http://arxiv.org/abs/2209.06804
+
+
+### Related Publications
 
 1.	Boland, K., Ritze, D., Eckert, K., & Mathiak, B. (2012). Identifying references to datasets in publications. In International Conference on Theory and Practice of Digital Libraries (pp. 150-161). Springer, Berlin, Heidelberg. DOI: http://doi.org/10.1007/978-3-642-33290-6_17
 
