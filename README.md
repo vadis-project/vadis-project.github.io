@@ -54,7 +54,7 @@ Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 
 ## Funding
 DFG, e-Research Technologies
-2021-2023, 36 months
+2021-2024, 36 months
 
 ### Software
 - [Summarization](https://github.com/vadis-project/vadis_summarization_api)
