@@ -64,6 +64,7 @@ DFG, e-Research Technologies
 * Tsereteli, T., Kartal, Y. S., Ponzetto, S. P., Zielinski, A., Eckert, K., & Mayr, P. (2022). Overview of the SV-Ident 2022 Shared Task on Survey Variable Identification in Social Science Publications. In Proceedings of the Third Workshop on Scholarly Document Processing (pp. 229–246). Association for Computational Linguistics. [https://aclanthology.org/2022.sdp-1.29/](https://aclanthology.org/2022.sdp-1.29/)
 * Kartal, Y. S., Takeshita, S., Tsereteli, T., Eckert, K., Kroll, H., Mayr, P., Ponzetto, S. P., Zapilko, B., & Zielinski, A. (2022). Towards Automated Survey Variable Search and Summarization in Social Science Publications (arXiv:2209.06804). [http://arxiv.org/abs/2209.06804](http://arxiv.org/abs/2209.06804)
 * Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. 2022. X-SCITLDR: cross-lingual extreme summarization of scholarly documents. In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3529372.3530938](https://doi.org/10.1145/3529372.3530938)
+* Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. (2023). Cross-lingual extreme summarization of scholarly documents. International Journal on Digital Libraries (2023) [https://doi.org/10.1007/s00799-023-00373-2](https://doi.org/10.1007/s00799-023-00373-2)
 
 ### Related Publications
 
