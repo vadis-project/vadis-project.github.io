@@ -7,6 +7,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ## News
 
+* Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 * The Shared Task [SV-Ident 2022: Survey Variable Identification in Social Science Publications](https://vadis-project.github.io/sv-ident-sdp2022/) organized by VADIS will run in co-location with the 3rd Workshop on Scholarly Document Processing at COLING 2022. 
 * The VADIS team met for a first face2face meeting in Mannheim, October 29, 2021.
 
@@ -57,6 +58,7 @@ DFG, e-Research Technologies
 2021-2024, 36 months
 
 ### Software
+- Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 - [Summarization](https://github.com/vadis-project/vadis_summarization_api)
 - [Variable Search](https://e-tornike-variable-search-demo-app-zsrszl.streamlit.app/)
 
