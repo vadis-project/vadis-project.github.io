@@ -65,8 +65,8 @@ DFG, e-Research Technologies
 
 * Kartal, Y. S., Shahid, M. A., Takeshita, S., Tsereteli, T., Zielinski, A., Zapilko, B., & Mayr, P. (2024 to appear). VADIS – a VAriable Detection, Interlinking and Summarization system. ECIR Demo Track. [2312.13423.pdf](https://arxiv.org/pdf/2312.13423.pdf)
 * Andrea Zielinski, Calvin Spolwind, Henning Kroll (2024 to appear). Evaluating Local Explanations for Survey Variable Detection in Scientific Publications. SDU@ AAAI-24. Vancouver, Canada.
-* Tornike Tsereteli and Simone Paolo Ponzetto (under review). Finding Concept Mentions in Social Science Publications. Submitted to LREC-COLING.
-* Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert (under review). ROUGE-K: Do your summaries have keywords? Submitted to LREC-COLING.
+* Tornike Tsereteli and Simone Paolo Ponzetto (under review). Finding Concept Mentions in Social Science Publications.
+* Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert (under review). ROUGE-K: Do your summaries have keywords?
 * Sotaro Takeshita, Tommaso Green, Ines Reinig, Kai Eckert and Simone Paolo Ponzetto. (under review). ACLSum: A New Dataset for Aspect-based Summarization of Scientific Publications. Submitted to NAACL.
 * Tornike Tsereteli and Simone Paolo Ponzetto. 2023. A Lexico-semantic System for Survey Variable Search. 9th International Conference on Computational Social Science.
 * Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. (2023). Cross-lingual extreme summarization of scholarly documents. International Journal on Digital Libraries (2023) [https://doi.org/10.1007/s00799-023-00373-2](https://doi.org/10.1007/s00799-023-00373-2)
