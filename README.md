@@ -59,7 +59,7 @@ DFG, e-Research Technologies
 ### Software
 - Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 - [Summarization](https://github.com/vadis-project/vadis_summarization_api)
-- [Variable Search](https://variable-search.streamlit.app/)
+- [Variable Search](https://demo-vadis.gesis.org/variable_search/)
 
 ### Publications (project publications)
 
