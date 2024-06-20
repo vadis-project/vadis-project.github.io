@@ -63,9 +63,9 @@ DFG, e-Research Technologies
 
 ### Publications (project publications)
 
+* Zielinski, A., Spolwind, C., & Kroll, H. (2024). Evaluating Local Explanations for Survey Variable Detection in Scientific Publications. Workshop on Scientific Document Understanding 2024. Conference on Artificial Intelligence 2024. https://publica.fraunhofer.de/handle/publica/470257 
 * Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert. GenGO: ACL Paper Explorer with Semantic Features. To appear at ACL 2024 System demonstration track
-* Kartal, Y. S., Shahid, M. A., Takeshita, S., Tsereteli, T., Zielinski, A., Zapilko, B., & Mayr, P. (2024 to appear). VADIS – a VAriable Detection, Interlinking and Summarization system. ECIR Demo Track. [2312.13423.pdf](https://arxiv.org/pdf/2312.13423.pdf)
-* Andrea Zielinski, Calvin Spolwind, Henning Kroll (2024 to appear). Evaluating Local Explanations for Survey Variable Detection in Scientific Publications. SDU@ AAAI-24. Vancouver, Canada.
+* Kartal, Y. S., Shahid, M. A., Takeshita, S., Tsereteli, T., Zielinski, A., Zapilko, B., & Mayr, P. (2024). VADIS – a VAriable Detection, Interlinking and Summarization system. ECIR Demo Track. [2312.13423.pdf](https://arxiv.org/pdf/2312.13423.pdf)
 * Tornike Tsereteli and Simone Paolo Ponzetto (under review). Finding Concept Mentions in Social Science Publications.
 * Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert. ROUGE-K: Do your summaries have keywords? To appear at *SEM 2024 [https://arxiv.org/abs/2403.05186](https://arxiv.org/abs/2403.05186)
 * Sotaro Takeshita, Tommaso Green, Ines Reinig, Kai Eckert and Simone Paolo Ponzetto. ACLSum: A New Dataset for Aspect-based Summarization of Scientific Publications. To appear at NAACL 2024 [https://arxiv.org/abs/2403.05303](https://arxiv.org/abs/2403.05303).
