@@ -27,6 +27,11 @@ To achieve this, **we will analyze and link variables in context by identifying 
 The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021** (Thursday/Friday). 
 All details about the workshop are here: [Schedule of the workshop](workshop2021.md).
 
+## Final workshop
+
+The final workshop of VADIS will take place on **September 6, 2024**.
+All details about the final worshop can be found here: [Schedule of the workshop](workshop2024.md).
+
 ## Work packages
 
 Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs. 
