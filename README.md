@@ -29,7 +29,7 @@ All details about the workshop are here: [Schedule of the workshop](workshop2021
 
 ## Final workshop
 
-The final workshop of VADIS will take place on **September 6, 2024**.
+The final workshop of VADIS will take place on **November 12, 2024**.
 All details about the final worshop can be found here: [Schedule of the workshop](workshop2024.md).
 
 ## Work packages

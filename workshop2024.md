@@ -1,15 +1,15 @@
 # VADIS Final Workshop
 
-The final workshop will take place on **September 6, 2024**. 
+The final workshop will take place on **November 12, 2024**. 
 
 ## Schedule of the workshop
 All times are Central European Summer Time (CEST).
 
-* 12:00 pm: Welcome and project recap
-* 12:10 pm: Presentation of project outcomes
-* 12:50 pm: Presentation of scientific outcomes
-* 1:30 pm: Discussion
-* 2:00 pm: Closing
+* 2:30 pm: Welcome and project recap
+* 2:40 pm: Presentation of project outcomes
+* 3:20 pm: Presentation of scientific outcomes
+* 4:00 pm: Discussion
+* 4:30 pm: Closing
 
 
 [Back to the VADIS homepage](README.md)
