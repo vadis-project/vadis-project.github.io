@@ -3,7 +3,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 ![logo](VADIS-logo_small.png).
 
 
-[Go to project results](#software)
+[Go to project results](#results)
 
 ## News
 
@@ -63,12 +63,14 @@ Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 DFG, e-Research Technologies
 2021-2024, 36 months
 
-<a name="software"></a>## Software
+## <a name="results"></a>Project results
+
+### Software
 - Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 - [Summarization](https://github.com/vadis-project/vadis_summarization_api)
 - [Variable Search](https://demo-vadis.gesis.org/variable_search/)
 
-## Publications (project publications)
+### Publications (project publications)
 
 * Zielinski, A., Spolwind, C., & Kroll, H. (2024). Evaluating Local Explanations for Survey Variable Detection in Scientific Publications. Workshop on Scientific Document Understanding 2024. Conference on Artificial Intelligence 2024. https://publica.fraunhofer.de/handle/publica/470257 
 * Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert. GenGO: ACL Paper Explorer with Semantic Features. To appear at ACL 2024 System demonstration track
