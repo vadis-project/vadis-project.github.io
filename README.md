@@ -2,10 +2,13 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ![logo](VADIS-logo_small.png).
 
+[News](#news)
+[Introduction](#intro)
+[Project results](#results)
+[Advisory Board](#board)
+[Contact & Partners](#contact)
 
-[Go to project results](#results)
-
-## News
+## <a name="news"></a> News
 
 * VADIS 2 proposal submitted
 * Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
@@ -15,7 +18,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 ## Team
 ![Team](team.jpeg)
 
-## Introduction
+## <a name="intro"></a> Introduction
 Nowadays there is a growing trend in many scientific disciplines to support researchers by providing enhanced information access through linking of publications and underlying datasets. Open Science encourages scientiﬁc practices in which all research data is interlinked and contextualized to enhance reproducibility and reusability of research results. Ideally, publications that report on a result of an empirical study should thus contain a direct link to the cited dataset and lead the reader directly to the research data that underlies the publication.
 
 However, in practice, standards for referencing between primary text and the cited data and its variables are often missing. A recent user study conducted by GESIS reveals that researchers would considerably benefit from increased linking and semantic annotation of scientific publications. In addition, researchers also demand that data citations should include information at the right granular level of the cited data, thus facilitating the identification and verification of the part of data that actually supports a specific claim. Improving access to scientific publications along the FAIR best practices also requires semantic indexing of texts with salient entities and specific variables that make up the focus of the study – requirements which are rarely addressed today.
@@ -39,14 +42,8 @@ All details about the final worshop can be found here: [Schedule of the workshop
 Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs. 
 [WPs of VADIS](https://github.com/vadis-project/vadis.github.io/blob/main/VADIS-WPs.png) ![WPs of VADIS](VADIS-WPs.png)
 
-## Partners
-- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
-- [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto (PI), Tornike Tsereteli (PhD student)
-- [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
-- [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
 
-
-## Advisory board
+## <a name="board"></a> Advisory board
 - Sören Auer: TIB Hannover, Germany 
 - Elizabeth Bishop: GESIS, Cologne, Germany  
 - Jan Goebel: SOEP. Berlin, Germany
@@ -56,8 +53,14 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 - Franciska de Jong: University Utrecht, The Netherlands
 
 
-## Contact
+## <a name="contact"></a> Contact
 Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
+
+## Partners
+- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
+- [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto (PI), Tornike Tsereteli (PhD student)
+- [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
+- [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
 
 ## Funding
 DFG, e-Research Technologies
