@@ -6,7 +6,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 [Introduction](#intro)
 [Project results](#results)
 [Advisory Board](#board)
-[Contact & Partners](#contact)
+[Team](#team)
 
 ## <a name="news"></a> News
 
@@ -14,9 +14,6 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 * Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 * The Shared Task [SV-Ident 2022: Survey Variable Identification in Social Science Publications](https://vadis-project.github.io/sv-ident-sdp2022/) organized by VADIS will run in co-location with the 3rd Workshop on Scholarly Document Processing at COLING 2022. 
 * The VADIS team met for a first face2face meeting in Mannheim, October 29, 2021.
-
-## Team
-![Team](team.jpeg)
 
 ## <a name="intro"></a> Introduction
 Nowadays there is a growing trend in many scientific disciplines to support researchers by providing enhanced information access through linking of publications and underlying datasets. Open Science encourages scientiﬁc practices in which all research data is interlinked and contextualized to enhance reproducibility and reusability of research results. Ideally, publications that report on a result of an empirical study should thus contain a direct link to the cited dataset and lead the reader directly to the research data that underlies the publication.
@@ -27,44 +24,10 @@ The **key vision behind VADIS is to allow for searching und using survey variabl
 
 To achieve this, **we will analyze and link variables in context by identifying references to survey variables within the full text of research literature, creating semantic links based on these references and making the resulting data available as Linked Open Data**. Next, we will develop data-driven profiles of survey variable on the basis of both context-independent and context-dependent metrics. Finally, we will improve the access to survey and literature by providing information on variables from surveys, the developed metrics as well as textual summaries of linked literature. As a result of this, our project will be able to provide improved access to research literature in the social sciences based on the seamless integration within existing infrastructures. To quantify the effectiveness of our framework we design several use case scenarios for a target group of researchers that will be implemented as interfaces for exploration and research. The improvements on information access from experts will be thoroughly investigated in a user study.
 
-## Kickoff workshop
-
-The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021** (Thursday/Friday). 
-All details about the workshop are here: [Schedule of the workshop](workshop2021.md).
-
-## Final workshop
-
-The final workshop of VADIS will take place on **November 12, 2024**.
-All details about the final worshop can be found here: [Schedule of the workshop](workshop2024.md).
-
-## Work packages
+### Work packages
 
 Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs. 
 [WPs of VADIS](https://github.com/vadis-project/vadis.github.io/blob/main/VADIS-WPs.png) ![WPs of VADIS](VADIS-WPs.png)
-
-
-## <a name="board"></a> Advisory board
-- Sören Auer: TIB Hannover, Germany 
-- Elizabeth Bishop: GESIS, Cologne, Germany  
-- Jan Goebel: SOEP. Berlin, Germany
-- Dirk Hovy: Bocconi University, Milano, Italy
-- Florian Keusch: University of Mannheim, Germany
-- Federico Nanni: the Alan Turing Institute, London, United Kingdom
-- Franciska de Jong: University Utrecht, The Netherlands
-
-
-## <a name="contact"></a> Contact
-Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
-
-## Partners
-- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
-- [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto (PI), Tornike Tsereteli (PhD student)
-- [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
-- [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
-
-## Funding
-DFG, e-Research Technologies
-2021-2024, 36 months
 
 ## <a name="results"></a>Project results
 
@@ -87,6 +50,45 @@ DFG, e-Research Technologies
 * Hövelmeyer, Alica, and Yavuz Selim Kartal. Varanalysis@ sv-ident 2022: Variable detection and disambiguation based on semantic similarity. Proceedings of the Third Workshop on Scholarly Document Processing. 2022. https://aclanthology.org/2022.sdp-1.30/ 
 * Kartal, Y. S., Takeshita, S., Tsereteli, T., Eckert, K., Kroll, H., Mayr, P., Ponzetto, S. P., Zapilko, B., & Zielinski, A. (2022). Towards Automated Survey Variable Search and Summarization in Social Science Publications (arXiv:2209.06804). [http://arxiv.org/abs/2209.06804](http://arxiv.org/abs/2209.06804)
 * Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. 2022. X-SCITLDR: cross-lingual extreme summarization of scholarly documents. In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3529372.3530938](https://doi.org/10.1145/3529372.3530938)
+
+### Workshops
+
+### Kickoff workshop
+
+The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021** (Thursday/Friday). 
+All details about the workshop are here: [Schedule of the workshop](workshop2021.md).
+
+### Final workshop
+
+The final workshop of VADIS will take place on **November 12, 2024**.
+All details about the final worshop can be found here: [Schedule of the workshop](workshop2024.md).
+
+
+## <a name="board"></a> Advisory board
+- Sören Auer: TIB Hannover, Germany 
+- Elizabeth Bishop: GESIS, Cologne, Germany  
+- Jan Goebel: SOEP. Berlin, Germany
+- Dirk Hovy: Bocconi University, Milano, Italy
+- Florian Keusch: University of Mannheim, Germany
+- Federico Nanni: the Alan Turing Institute, London, United Kingdom
+- Franciska de Jong: University Utrecht, The Netherlands
+
+## <a name="team"></a> Team
+![Team](team.jpeg)
+
+### Contact
+Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
+
+### Partners
+- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
+- [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto (PI), Tornike Tsereteli (PhD student)
+- [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
+- [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
+
+### Funding
+DFG, e-Research Technologies
+2021-2024, 36 months
+
 
 ### Related Publications
 
