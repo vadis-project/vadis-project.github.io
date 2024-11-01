@@ -97,7 +97,15 @@ To retrieve resources from a different type, change <https://schema.org/Scholarl
 
 **SPARQL example query #3: List the tldr summaries for all publications**
 
-* coming soon
+The following query retrieves all publications with their ID and title together with all generated tdlr summaries. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=SELECT+%3Fpub_id+%3Fpub_title+%3Ftldr%0D%0AWHERE+%7B%0D%0A%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FextractiveSummary%3E+%3Fsummary+.%0D%0A%3Fsummary+%3Chttps%3A%2F%2Fschema.org%2Ftext%3E+%3Ftldr+.%0D%0A%7D+%0D%0A&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
+
+* * * * *
+	SELECT ?pub_id ?pub_title ?tldr
+	WHERE {?pub_id <https://schema.org/name> ?pub_title .
+	       ?pub_id <https://data.gesis.org/vadiskg/schema/extractiveSummary> ?summary .
+	       ?summary <https://schema.org/text> ?tldr .
+	} 
+
 
 **SPARQL example query #4: List all publications with their linked variables**
 
