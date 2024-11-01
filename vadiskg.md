@@ -27,18 +27,31 @@ The data model of the VADISKG reuses classes and properties of the following voc
 
 ## Statistics
 
-tbd
+- coming soon -
 
 ## Dataset
+The VADISKG can be accessed and queried via its SPARQL endpoint. Additionally, the KG and the underlying ontology will be available for download soon.
 
 **SPARQL endpoint**
 
+The data within the VADIS Knowledge Graph can be explored using SPARQL queries at the following SPARQL endpoint: [https://data.gesis.org/vadiskg/sparql](https://data.gesis.org/vadiskg/sparql)
+
+You can find some example SPARQL queries here:
+
+- coming soon -
+
 **Download**
 
+The VADIS Knowledge Graph will be available for download as a full RDF dump as well as its underlying ontology from the following links:
+
+* Dataset: - link coming soon -
+* Ontology: - link coming soon -
+
 ## License
+The VADIS Knowledge Graph is available for access, download, and reuse under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license since the license of some input sources is CC-BY as well.
 
 ## Contact
-
+Benjamin Zapilko, benjamin(dot)zapilko(at)gesis(dot)org
 
 
 [Back to the VADIS homepage](README.md)
