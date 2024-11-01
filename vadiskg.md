@@ -44,6 +44,22 @@ The data model of the VADISKG reuses classes and properties of the following voc
 
 **Link information in the KG**
 
+| Metadata name | Description | Property |
+| :---------- | :----------------- | :-- |
+| Sentence confidence score | Computed confidence score for the detected sentence containing variable mentions | vadiskg:score |
+| Method type | Method which has been used to detect the variable sentences | vadiskg:methodType |
+| Common words | Common words used in the variable sentence | vadiskg:commonWords |
+| Link reason | Part of text which is the basis for the link detection | gesiskg:linkReason |
+| Variable similarity score | Computed similarity score for the detected variable in a variable sentence | gesiskg:linkScore |
+| Link type | Specifying that the link was automatically generated | gesiskg:linkType |
+
+**URI paths**
+
+* Base URI: https://data.gesis.org/vadiskg/ 
+* Schema URI: https://data.gesis.org/vadiskg/schema/ 
+* Resource URI: https://data.gesis.org/vadiskg/resource/ 
+* VADISKG metadata: https://data.gesis.org/vadiskg/id/1 
+
 ## Statistics
 
 * coming soon 
