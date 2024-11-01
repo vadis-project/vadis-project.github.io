@@ -84,7 +84,7 @@ Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 - [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
 
 ### Funding
-DFG, e-Research Technologies, project number 448491925, runtime 2021-2024
+DFG, e-Research Technologies, [project number 448491925](https://gepris-extern.dfg.de/gepris/projekt/448491925), runtime 2021-2024
 
 
 ### Related Publications
