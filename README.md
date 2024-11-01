@@ -2,11 +2,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ![logo](VADIS-logo_small.png).
 
-[News](#news)
-[Introduction](#intro)
-[Project results](#results)
-[Advisory Board](#board)
-[Team](#team)
+[News](#news) - [Introduction](#intro) - [Project results](#results) - [Advisory Board](#board) - [Team](#team)
 
 ## <a name="news"></a> News
 
@@ -27,7 +23,7 @@ To achieve this, **we will analyze and link variables in context by identifying 
 ### Work packages
 
 Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs. 
-[WPs of VADIS](https://github.com/vadis-project/vadis.github.io/blob/main/VADIS-WPs.png) ![WPs of VADIS](VADIS-WPs.png)
+![WPs of VADIS](VADIS-WPs.png)
 
 ## <a name="results"></a>Project results
 
@@ -35,6 +31,7 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 - Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 - [Summarization](https://github.com/vadis-project/vadis_summarization_api)
 - [Variable Search](https://demo-vadis.gesis.org/variable_search/)
+- [VADIS Knowledge Graph](vadiskg.md) 
 
 ### Publications (project publications)
 
