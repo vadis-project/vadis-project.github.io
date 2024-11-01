@@ -79,7 +79,33 @@ The data within the VADIS Knowledge Graph can be explored using SPARQL queries a
 
 You can find some example SPARQL queries here:
 
-* coming soon 
+**SPARQL example query #1: List all resources from a particular type**
+
+The following query lists all publications which are included in the VADISKG. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=SELECT+%3Fid+%3Ftitle%0D%0AWHERE+%7B%3Fid+%3Fp+%3Chttps%3A%2F%2Fschema.org%2FScholarlyArticle%3E.%0D%0A+++++++%3Fid+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Ftitle.%0D%0A%7D+%0D%0ALIMIT+10000&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
+
+* * * * *
+	SELECT ?id ?title
+	WHERE {?id ?p <https://schema.org/ScholarlyArticle>.
+	       ?id <https://schema.org/name> ?title.
+	} 
+
+To retrieve resources from a different type, change <https://schema.org/ScholarlyArticle> accordingly to, e.g., <https://schema.org/Dataset>.
+
+**SPARQL example query #2: List all detected variables for a particular publication**
+
+* coming soon
+
+**SPARQL example query #3: List the tldr summaries for all publications**
+
+* coming soon
+
+**SPARQL example query #4: List all publications with their linked variables**
+
+* coming soon
+
+**SPARQL example query #5: List all publications with their links to datasets**
+
+* coming soon
 
 ### Download
 
