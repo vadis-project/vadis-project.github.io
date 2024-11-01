@@ -1,8 +1,8 @@
-Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlinking and Summarization** (VADIS).
-
 ![logo](VADIS-logo_small.png).
 
-[News](#news) - [Project overview](#overview) - [Project results](#results) - [Advisory board](#board) - [Team](#team)
+Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlinking and Summarization** (VADIS).
+
+[News](#news) - [Project overview](#overview) - [Project results](#results) - [Advisory board](#board) - [Team](#team) - [Funding](#funding)
 
 ## <a name="news"></a> News
 
@@ -51,12 +51,12 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 
 ### Workshops
 
-### Kickoff workshop
+**Kickoff workshop**
 
 The kickoff workshop is planned to be on two afternoons in **September 23-24, 2021** (Thursday/Friday). 
 All details about the workshop are here: [Schedule of the workshop](workshop2021.md).
 
-### Final workshop
+**Final workshop**
 
 The final workshop of VADIS will take place on **November 12, 2024**.
 All details about the final worshop can be found here: [Schedule of the workshop](workshop2024.md).
@@ -83,10 +83,6 @@ Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 - [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
 - [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
 
-### Funding
-DFG, e-Research Technologies, [project number 448491925](https://gepris-extern.dfg.de/gepris/projekt/448491925), runtime 2021-2024
-
-
 ### Related Publications
 
 1.	Boland, K., Ritze, D., Eckert, K., & Mathiak, B. (2012). Identifying references to datasets in publications. In International Conference on Theory and Practice of Digital Libraries (pp. 150-161). Springer, Berlin, Heidelberg. DOI: http://doi.org/10.1007/978-3-642-33290-6_17
@@ -99,3 +95,7 @@ DFG, e-Research Technologies, [project number 448491925](https://gepris-extern.d
 8.	Zapilko, B., Boland, K., & Kern, D. (2018). A LOD backend infrastructure for scientific search portals. In European Semantic Web Conference (pp. 729-744). Springer, Cham.
 9.	Zielinski, A., & Mutschke, P. (2017). Mining Social Science Publications for Survey Variables. In Proceedings of the Second Workshop on NLP and Computational Social Science (NLP+CSS), pp. 47-52. http://www.aclweb.org/anthology/W17-2907
 10.	Zielinski, A., & Mutschke, P. (2018). Towards a Gold Standard Corpus for Variable Detection and Linking in Social Science Publications. In International Conference on Language Resources and Evaluation (LREC).
+
+## <a name="funding"></a>Funding
+DFG, e-Research Technologies, [project number 448491925](https://gepris-extern.dfg.de/gepris/projekt/448491925), runtime 2021-2024
+
