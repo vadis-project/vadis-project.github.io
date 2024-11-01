@@ -79,7 +79,7 @@ The data within the VADIS Knowledge Graph can be explored using SPARQL queries a
 
 You can find some example SPARQL queries here:
 
-**Example query #1: List all resources from a particular type**
+##### Example query #1: List all resources from a particular type
 
 The following query lists all publications which are included in the VADISKG. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=SELECT+%3Fid+%3Ftitle%0D%0AWHERE+%7B%3Fid+%3Fp+%3Chttps%3A%2F%2Fschema.org%2FScholarlyArticle%3E.%0D%0A+++++++%3Fid+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Ftitle.%0D%0A%7D+%0D%0ALIMIT+10000&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
@@ -91,7 +91,7 @@ The following query lists all publications which are included in the VADISKG. [R
 
 To retrieve resources from a different type, change <https://schema.org/ScholarlyArticle> accordingly to, e.g., <https://schema.org/Dataset>.
 
-**Example query #2: List the tldr summaries for all publications**
+##### Example query #2: List the tldr summaries for all publications
 
 The following query retrieves all publications with their ID and title together with all generated tdlr summaries. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=%09SELECT+%3Fpub_id+%3Fpub_title+%3Ftldr%0D%0A%09WHERE+%7B%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%09+++++++%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FabstractiveSummary%3E+%3Fsummary+.%0D%0A%09+++++++%3Fsummary+%3Chttps%3A%2F%2Fschema.org%2Ftext%3E+%3Ftldr+.%0D%0A%09%7D+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
@@ -102,7 +102,7 @@ The following query retrieves all publications with their ID and title together 
 	       ?summary <https://schema.org/text> ?tldr .
 	} 
 
-**Example query #3: List all publications with their linked variables**
+##### Example query #3: List all publications with their linked variables
 
 The following query retrieves all publications (ID and title) with detected variables (ID and question texts). [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=%09SELECT+%3Fpub_id+%3Fpub_title+%3Fvar_id+%3Fvar_text%0D%0A%09WHERE+%7B%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%09+++++++%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fgesiskg%2Fschema%2FvariableReference%3E+%3Fvar_ref+.%0D%0A%09+++++++%3Fvar_ref+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FdetectedVariable%3E+%3Fvar_id+.%0D%0A+++++++++++++++%3Fvar_id+%3Chttp%3A%2F%2Frdf-vocabulary.ddialliance.org%2Fdiscovery%23questionText%3E+%3Fvar_text%0D%0A%09%7D+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
@@ -114,7 +114,7 @@ The following query retrieves all publications (ID and title) with detected vari
            ?var_id <http://rdf-vocabulary.ddialliance.org/discovery#questionText> ?var_text
 	} 
 
-**Example query #4: List all publications with their links to variables and datasets**
+##### Example query #4: List all publications with their links to variables and datasets
 
 The following query adds all linked datasets to the previous query #3. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=%09SELECT+%3Fpub_id+%3Fpub_title+%3Fvar_id+%3Fvar_text+%3Fdataset_id%0D%0A%09WHERE+%7B%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%09+++++++%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fgesiskg%2Fschema%2FvariableReference%3E+%3Fvar_ref+.%0D%0A%09+++++++%3Fvar_ref+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FdetectedVariable%3E+%3Fvar_id+.%0D%0A+++++++++++++++%3Fvar_id+%3Chttp%3A%2F%2Frdf-vocabulary.ddialliance.org%2Fdiscovery%23questionText%3E+%3Fvar_text+.%0D%0A+++++++++++++++%3Fvar_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fgesiskg%2Fschema%2Fdataset%3E+%3Fdataset_id+.%0D%0A%09%7D+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
@@ -138,7 +138,8 @@ The VADIS Knowledge Graph will be available for download as a full RDF dump as w
 The VADIS Knowledge Graph is available for access, download, and reuse under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license since the license of some input sources is CC-BY as well.
 
 ## <a name="contact"></a> Contact
-Benjamin Zapilko, benjamin(dot)zapilko(at)gesis(dot)org
-
+* Benjamin Zapilko, benjamin(dot)zapilko(at)gesis(dot)org
+* Muhammad Ahsan Shahid
+* Yavuz Selim Kartal
 
 [Back to the VADIS homepage](README.md)
