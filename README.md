@@ -2,7 +2,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ![logo](VADIS-logo_small.png).
 
-[News](#news) - [Introduction](#intro) - [Project results](#results) - [Advisory Board](#board) - [Team](#team)
+[News](#news) - [Project overview](#overview) - [Project results](#results) - [Advisory board](#board) - [Team](#team)
 
 ## <a name="news"></a> News
 
@@ -11,7 +11,7 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 * The Shared Task [SV-Ident 2022: Survey Variable Identification in Social Science Publications](https://vadis-project.github.io/sv-ident-sdp2022/) organized by VADIS will run in co-location with the 3rd Workshop on Scholarly Document Processing at COLING 2022. 
 * The VADIS team met for a first face2face meeting in Mannheim, October 29, 2021.
 
-## <a name="intro"></a> Introduction
+## <a name="overview"></a> Project overview
 Nowadays there is a growing trend in many scientific disciplines to support researchers by providing enhanced information access through linking of publications and underlying datasets. Open Science encourages scientiﬁc practices in which all research data is interlinked and contextualized to enhance reproducibility and reusability of research results. Ideally, publications that report on a result of an empirical study should thus contain a direct link to the cited dataset and lead the reader directly to the research data that underlies the publication.
 
 However, in practice, standards for referencing between primary text and the cited data and its variables are often missing. A recent user study conducted by GESIS reveals that researchers would considerably benefit from increased linking and semantic annotation of scientific publications. In addition, researchers also demand that data citations should include information at the right granular level of the cited data, thus facilitating the identification and verification of the part of data that actually supports a specific claim. Improving access to scientific publications along the FAIR best practices also requires semantic indexing of texts with salient entities and specific variables that make up the focus of the study – requirements which are rarely addressed today.
@@ -78,14 +78,13 @@ All details about the final worshop can be found here: [Schedule of the workshop
 Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 
 ### Partners
-- [GESIS](https://www.gesis.org/en/home) -- Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
+- [GESIS](https://www.gesis.org/en/home) - Leibniz Institute for the Social Sciences, Benjamin Zapilko (PI), Philipp Mayr (PI), Yavuz Selim Kartal (PhD student), Ahsan Shahid (Developer)
 - [University of Mannheim](https://www.uni-mannheim.de/en/), Simone Ponzetto (PI), Tornike Tsereteli (PhD student)
 - [Stuttgart Media University](https://www.hdm-stuttgart.de/en), Kai Eckert (PI), Sotaro Takeshita (PhD student)
 - [Fraunhofer Institute for Systems and Innovation Research ISI](https://www.isi.fraunhofer.de/en.html), Henning Kroll (PI), Andrea Zielinski (PI)
 
 ### Funding
-DFG, e-Research Technologies
-2021-2024, 36 months
+DFG, e-Research Technologies, project number 448491925, runtime 2021-2024
 
 
 ### Related Publications
