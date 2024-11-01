@@ -97,5 +97,5 @@ Dr. [Philipp Mayr](https://philippmayr.github.io/), philipp.mayr@gesis.org
 10.	Zielinski, A., & Mutschke, P. (2018). Towards a Gold Standard Corpus for Variable Detection and Linking in Social Science Publications. In International Conference on Language Resources and Evaluation (LREC).
 
 ## <a name="funding"></a>Funding
-DFG, e-Research Technologies, [project number 448491925](https://gepris-extern.dfg.de/gepris/projekt/448491925), runtime 2021-2024
+This project is funded by the DFG in the program e-Research Technologies, [project number 448491925](https://gepris-extern.dfg.de/gepris/projekt/448491925), runtime 2021-2024.
 

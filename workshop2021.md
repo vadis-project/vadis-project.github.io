@@ -1,5 +1,3 @@
-# VADIS Kickoff Workshop
-
 The kickoff workshop is planned to be on **September 23-24, 2021** (Thursday/Friday). 
 
 We ask all participants of the workshop to register.

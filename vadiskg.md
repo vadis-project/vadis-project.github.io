@@ -1,8 +1,8 @@
-# VADIS Knowledge Graph (VADISKG)
-
 The resulting data corpus containing links between scholarly articles, survey variables, and research datasets has been published as Knowledge Graph.
 
-## Data model
+[Data model](#model) - [Dataset](#dataset) - [Statistics](#statistics)- [License](#license) - [Contact](#contact)
+
+## <a name="model"></a> Data model
 
 The following figure illustrates a simplified version of the VADISKG data model.
 
@@ -24,6 +24,29 @@ The data model of the VADISKG reuses classes and properties of the following voc
 | Publication   | schema:ScholarlyArticle |
 | Variable      | disco:Variable          |
 | Dataset       | schema:Dataset          |
+
+<table>
+    <thead>
+        <tr>
+            <th>Resource name</th>
+            <th>Class</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Publication</td>
+            <td>schema:ScholarlyArticle</td>
+        </tr>
+        <tr>
+            <td>Variable</td>
+            <td>disco:Variable</td>
+        </tr>
+        <tr>
+            <td>Dataset</td>
+            <td>schema:Dataset</td>
+        </tr>
+    </tbody>
+</table>
 
 **Additional entities in the KG**
 
@@ -60,11 +83,11 @@ The data model of the VADISKG reuses classes and properties of the following voc
 * Resource URI: https://data.gesis.org/vadiskg/resource/ 
 * VADISKG metadata: https://data.gesis.org/vadiskg/id/1 
 
-## Statistics
+## <a name="statistics"></a> Statistics
 
 * coming soon 
 
-## Dataset
+## <a name="dataset"></a> Dataset
 The VADISKG can be accessed and queried via its SPARQL endpoint. Additionally, the KG and the underlying ontology will be available for download soon.
 
 **SPARQL endpoint**
@@ -82,10 +105,10 @@ The VADIS Knowledge Graph will be available for download as a full RDF dump as w
 * Dataset: - link coming soon -
 * Ontology: - link coming soon -
 
-## License
+## <a name="license"></a> License
 The VADIS Knowledge Graph is available for access, download, and reuse under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license since the license of some input sources is CC-BY as well.
 
-## Contact
+## <a name="contact"></a> Contact
 Benjamin Zapilko, benjamin(dot)zapilko(at)gesis(dot)org
 
 

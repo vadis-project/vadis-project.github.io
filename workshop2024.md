@@ -1,5 +1,3 @@
-# VADIS Final Workshop
-
 The final workshop will take place on **November 12, 2024**. 
 
 ## (Preliminary) Schedule of the workshop
