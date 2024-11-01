@@ -79,7 +79,7 @@ The data within the VADIS Knowledge Graph can be explored using SPARQL queries a
 
 You can find some example SPARQL queries here:
 
-**SPARQL example query #1: List all resources from a particular type**
+**Example query #1: List all resources from a particular type**
 
 The following query lists all publications which are included in the VADISKG. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=SELECT+%3Fid+%3Ftitle%0D%0AWHERE+%7B%3Fid+%3Fp+%3Chttps%3A%2F%2Fschema.org%2FScholarlyArticle%3E.%0D%0A+++++++%3Fid+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Ftitle.%0D%0A%7D+%0D%0ALIMIT+10000&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
@@ -91,29 +91,41 @@ The following query lists all publications which are included in the VADISKG. [R
 
 To retrieve resources from a different type, change <https://schema.org/ScholarlyArticle> accordingly to, e.g., <https://schema.org/Dataset>.
 
-**SPARQL example query #2: List all detected variables for a particular publication**
+**Example query #2: List the tldr summaries for all publications**
 
-* coming soon
-
-**SPARQL example query #3: List the tldr summaries for all publications**
-
-The following query retrieves all publications with their ID and title together with all generated tdlr summaries. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=SELECT+%3Fpub_id+%3Fpub_title+%3Ftldr%0D%0AWHERE+%7B%0D%0A%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FextractiveSummary%3E+%3Fsummary+.%0D%0A%3Fsummary+%3Chttps%3A%2F%2Fschema.org%2Ftext%3E+%3Ftldr+.%0D%0A%7D+%0D%0A&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
+The following query retrieves all publications with their ID and title together with all generated tdlr summaries. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=%09SELECT+%3Fpub_id+%3Fpub_title+%3Ftldr%0D%0A%09WHERE+%7B%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%09+++++++%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FabstractiveSummary%3E+%3Fsummary+.%0D%0A%09+++++++%3Fsummary+%3Chttps%3A%2F%2Fschema.org%2Ftext%3E+%3Ftldr+.%0D%0A%09%7D+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
 * * * * *
 	SELECT ?pub_id ?pub_title ?tldr
 	WHERE {?pub_id <https://schema.org/name> ?pub_title .
-	       ?pub_id <https://data.gesis.org/vadiskg/schema/extractiveSummary> ?summary .
+	       ?pub_id <https://data.gesis.org/vadiskg/schema/abstractiveSummary> ?summary .
 	       ?summary <https://schema.org/text> ?tldr .
 	} 
 
+**Example query #3: List all publications with their linked variables**
 
-**SPARQL example query #4: List all publications with their linked variables**
+The following query retrieves all publications (ID and title) with detected variables (ID and question texts). [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=%09SELECT+%3Fpub_id+%3Fpub_title+%3Fvar_id+%3Fvar_text%0D%0A%09WHERE+%7B%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%09+++++++%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fgesiskg%2Fschema%2FvariableReference%3E+%3Fvar_ref+.%0D%0A%09+++++++%3Fvar_ref+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FdetectedVariable%3E+%3Fvar_id+.%0D%0A+++++++++++++++%3Fvar_id+%3Chttp%3A%2F%2Frdf-vocabulary.ddialliance.org%2Fdiscovery%23questionText%3E+%3Fvar_text%0D%0A%09%7D+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
 
-* coming soon
+* * * * *
+	SELECT ?pub_id ?pub_title ?var_id ?var_text
+	WHERE {?pub_id <https://schema.org/name> ?pub_title .
+	       ?pub_id <https://data.gesis.org/gesiskg/schema/variableReference> ?var_ref .
+	       ?var_ref <https://data.gesis.org/vadiskg/schema/detectedVariable> ?var_id .
+           ?var_id <http://rdf-vocabulary.ddialliance.org/discovery#questionText> ?var_text
+	} 
 
-**SPARQL example query #5: List all publications with their links to datasets**
+**Example query #4: List all publications with their links to variables and datasets**
 
-* coming soon
+The following query adds all linked datasets to the previous query #3. [Result](https://data.gesis.org/vadiskg/sparql?default-graph-uri=&query=%09SELECT+%3Fpub_id+%3Fpub_title+%3Fvar_id+%3Fvar_text+%3Fdataset_id%0D%0A%09WHERE+%7B%3Fpub_id+%3Chttps%3A%2F%2Fschema.org%2Fname%3E+%3Fpub_title+.%0D%0A%09+++++++%3Fpub_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fgesiskg%2Fschema%2FvariableReference%3E+%3Fvar_ref+.%0D%0A%09+++++++%3Fvar_ref+%3Chttps%3A%2F%2Fdata.gesis.org%2Fvadiskg%2Fschema%2FdetectedVariable%3E+%3Fvar_id+.%0D%0A+++++++++++++++%3Fvar_id+%3Chttp%3A%2F%2Frdf-vocabulary.ddialliance.org%2Fdiscovery%23questionText%3E+%3Fvar_text+.%0D%0A+++++++++++++++%3Fvar_id+%3Chttps%3A%2F%2Fdata.gesis.org%2Fgesiskg%2Fschema%2Fdataset%3E+%3Fdataset_id+.%0D%0A%09%7D+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on)
+
+* * * * *
+	SELECT ?pub_id ?pub_title ?var_id ?var_text ?dataset_id
+	WHERE {?pub_id <https://schema.org/name> ?pub_title .
+	       ?pub_id <https://data.gesis.org/gesiskg/schema/variableReference> ?var_ref .
+	       ?var_ref <https://data.gesis.org/vadiskg/schema/detectedVariable> ?var_id .
+           ?var_id <http://rdf-vocabulary.ddialliance.org/discovery#questionText> ?var_text .
+           ?var_id <https://data.gesis.org/gesiskg/schema/dataset> ?dataset_id .
+	} 
 
 ### Download
 
