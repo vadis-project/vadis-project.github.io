@@ -23,6 +23,7 @@ To achieve this, **we will analyze and link variables in context by identifying 
 ### Work packages
 
 Overview of the Work Packages (WPs) of the VADIS project. The colors indicate the lead partners for each of the different WPs. 
+
 ![WPs of VADIS](VADIS-WPs.png)
 
 ## <a name="results"></a>Project results
