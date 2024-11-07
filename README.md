@@ -33,7 +33,8 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 - Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 - [Summarization](https://github.com/vadis-project/vadis_summarization_api)
 - [Variable Search](https://demo-vadis.gesis.org/variable_search/)
-- [VADIS Knowledge Graph](vadiskg.md) 
+- [VADIS Knowledge Graph](vadiskg.md)
+- [Variable citation visualizer on VADIS KG](https://github.com/vadis-project/vadiskg-timeline)
 
 ### Publications (project publications)
 
