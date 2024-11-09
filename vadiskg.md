@@ -2,7 +2,7 @@
 
 The resulting data corpus containing links between scholarly articles, survey variables, and research datasets has been published as Knowledge Graph.
 
-[Data model](#model) - [Dataset](#dataset) - [Statistics](#statistics)- [License](#license) - [Contact](#contact)
+[Data model](#model) - [Dataset](#dataset) - [License](#license) - [Contact](#contact)
 
 ## <a name="model"></a> Data model
 
@@ -64,11 +64,7 @@ The data model of the VADISKG reuses classes and properties of the following voc
 * Base URI: https://data.gesis.org/vadiskg/ 
 * Schema URI: https://data.gesis.org/vadiskg/schema/ 
 * Resource URI: https://data.gesis.org/vadiskg/resource/ 
-* VADISKG metadata: https://data.gesis.org/vadiskg/id/1 
 
-## <a name="statistics"></a> Statistics
-
-* coming soon 
 
 ## <a name="dataset"></a> Dataset
 The VADISKG can be accessed and queried via its SPARQL endpoint. Additionally, the KG and the underlying ontology will be available for download soon.
@@ -131,8 +127,8 @@ The following query adds all linked datasets to the previous query #3. [Result](
 
 The VADIS Knowledge Graph will be available for download as a full RDF dump as well as its underlying ontology from the following links:
 
-* Dataset: - link coming soon -
-* Ontology: - link coming soon -
+* Dataset: - download link coming soon -
+* Ontology: - download link coming soon -
 
 ## <a name="license"></a> License
 The VADIS Knowledge Graph is available for access, download, and reuse under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license since the license of some input sources is CC-BY as well.
