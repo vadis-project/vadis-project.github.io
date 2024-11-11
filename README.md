@@ -35,18 +35,19 @@ Overview of the Work Packages (WPs) of the VADIS project. The colors indicate th
 - [Variable Search](https://demo-vadis.gesis.org/variable_search/)
 - [VADIS Knowledge Graph](vadiskg.md)
 - [Variable citation visualizer on VADIS KG](https://github.com/vadis-project/vadiskg-timeline)
+- [Variable topic visualizer on VADIS KG](https://colab.research.google.com/drive/1jzLZGmxyga5ty24HBQGeX_VA8w8plELy?usp=sharing)
 
 ### Publications (project publications)
 
 * Zielinski, A., Spolwind, C., & Kroll, H. (2024). Evaluating Local Explanations for Survey Variable Detection in Scientific Publications. Workshop on Scientific Document Understanding 2024. Conference on Artificial Intelligence 2024. [https://publica.fraunhofer.de/handle/publica/470257](https://publica.fraunhofer.de/handle/publica/470257) 
 * Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert. GenGO: ACL Paper Explorer with Semantic Features. ACL 2024 System demonstration track [https://aclanthology.org/2024.acl-demos.12/](https://aclanthology.org/2024.acl-demos.12/)
+* Tornike Tsereteli, Daniel Ruffinelli, and Simone Paolo Ponzetto. (Under Review) Enriching Social Science Research via Survey Item Linking.
 * Kartal, Y. S., Shahid, M. A., Takeshita, S., Tsereteli, T., Zielinski, A., Zapilko, B., & Mayr, P. (2024). VADIS – a VAriable Detection, Interlinking and Summarization system. ECIR Demo Track. [2312.13423.pdf](https://arxiv.org/pdf/2312.13423.pdf)
-* Tornike Tsereteli and Simone Paolo Ponzetto (under review). Finding Concept Mentions in Social Science Publications.
 * Sotaro Takeshita, Simone Paolo Ponzetto, and Kai Eckert. ROUGE-K: Do your summaries have keywords? *SEM 2024, Long Paper Award [https://aclanthology.org/2024.starsem-1.6/](https://aclanthology.org/2024.starsem-1.6/)
 * Sotaro Takeshita, Tommaso Green, Ines Reinig, Kai Eckert and Simone Paolo Ponzetto. ACLSum: A New Dataset for Aspect-based Summarization of Scientific Publications. To appear at NAACL 2024 [https://aclanthology.org/2024.naacl-long.371/](https://aclanthology.org/2024.naacl-long.371/).
 * Tornike Tsereteli and Simone Paolo Ponzetto. 2023. A Lexico-semantic System for Survey Variable Search. 9th International Conference on Computational Social Science.
 * Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. (2023). Cross-lingual extreme summarization of scholarly documents. International Journal on Digital Libraries (2023) [https://doi.org/10.1007/s00799-023-00373-2](https://doi.org/10.1007/s00799-023-00373-2)
-* Tsereteli, T., Kartal, Y. S., Ponzetto, S. P., Zielinski, A., Eckert, K., & Mayr, P. (2022). Overview of the SV-Ident 2022 Shared Task on Survey Variable Identification in Social Science Publications. In Proceedings of the Third Workshop on Scholarly Document Processing (pp. 229–246). Association for Computational Linguistics. [https://aclanthology.org/2022.sdp-1.29/](https://aclanthology.org/2022.sdp-1.29/)
+* Tornike Tsereteli, Yavuz Selim Kartal, Simone Paolo Ponzetto, Andrea Zielinski, Kai Eckert, and Philipp Mayr. 2022. Overview of the SV-Ident 2022 Shared Task on Survey Variable Identification in Social Science Publications. Proceedings of the Third Workshop on Scholarly Document Processing. 2022. [https://aclanthology.org/2022.sdp-1.29/](https://aclanthology.org/2022.sdp-1.29/)
 * Hövelmeyer, Alica, and Yavuz Selim Kartal. Varanalysis@ sv-ident 2022: Variable detection and disambiguation based on semantic similarity. Proceedings of the Third Workshop on Scholarly Document Processing. 2022. [https://aclanthology.org/2022.sdp-1.30/](https://aclanthology.org/2022.sdp-1.30/) 
 * Kartal, Y. S., Takeshita, S., Tsereteli, T., Eckert, K., Kroll, H., Mayr, P., Ponzetto, S. P., Zapilko, B., & Zielinski, A. (2022). Towards Automated Survey Variable Search and Summarization in Social Science Publications (arXiv:2209.06804). [http://arxiv.org/abs/2209.06804](http://arxiv.org/abs/2209.06804)
 * Sotaro Takeshita, Tommaso Green, Niklas Friedrich, Kai Eckert, and Simone Paolo Ponzetto. 2022. X-SCITLDR: cross-lingual extreme summarization of scholarly documents. In Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries (JCDL '22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–12. [https://doi.org/10.1145/3529372.3530938](https://doi.org/10.1145/3529372.3530938)
