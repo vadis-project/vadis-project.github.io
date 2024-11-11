@@ -2,8 +2,8 @@
 
 The final workshop will take place on **November 12, 2024**. 
 
-## (Preliminary) Schedule of the workshop
-All times are Central European Summer Time (CEST).
+## Schedule of the workshop
+All times are Central European Time (CET).
 
 * 2:30 pm: Welcome and project recap
 * 2:40 pm: Presentation of project outcomes
