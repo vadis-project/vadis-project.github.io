@@ -6,7 +6,8 @@ Welcome to the homepage of the DFG-funded project **VAriable Detection, Interlin
 
 ## <a name="news"></a> News
 
-* VADIS 2 proposal submitted
+* Nov. 12, 2024: [Final workshop](workshop2024.md) with the advisory board.
+* VADIS 2 proposal under revision
 * Public demo of the VADIS search [https://demo-vadis.gesis.org/](https://demo-vadis.gesis.org/).
 * VADIS has been presented in the course "Data Science Techniques for Survey Researchers" at the GESIS Summer School in Survey Methodology in August 2023.
 * The Shared Task [SV-Ident 2022: Survey Variable Identification in Social Science Publications](https://vadis-project.github.io/sv-ident-sdp2022/) organized by VADIS will run in co-location with the 3rd Workshop on Scholarly Document Processing at COLING 2022. 
