@@ -2,7 +2,7 @@
 
 The resulting data corpus containing links between scholarly articles, survey variables, and research datasets has been published as Knowledge Graph.
 
-[Data model](#model) - [Dataset](#dataset) - [License](#license) - [Contact](#contact)
+[Data model](#model) - [Dataset](#dataset) - [License](#license) - [SPARQL Queries](#queries) - [Contact](#contact)
 
 ## <a name="model"></a> Data model
 
@@ -67,12 +67,17 @@ The data model of the VADISKG reuses classes and properties of the following voc
 
 
 ## <a name="dataset"></a> Dataset
-The VADISKG can be accessed and queried via its SPARQL endpoint. Additionally, the KG and the underlying ontology are available for download.
 
-### SPARQL endpoint
+The VADIS Knowledge Graph is available for download as a full RDF dump as well as its underlying ontology: [Download from Zenodo](https://zenodo.org/records/23528528)
 
-The data within the VADIS Knowledge Graph can be explored using SPARQL queries at the following SPARQL endpoint: [https://data.gesis.org/vadiskg/sparql](https://data.gesis.org/vadiskg/sparql)
+The VADIS KG is fully integrated into the [GESIS Knowledge Graph](https://data.gesis.org/gesiskg/).
 
+
+## <a name="license"></a> License
+The VADIS Knowledge Graph is available for access, download, and reuse under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license since the license of some input sources is CC-BY as well.
+
+
+## <a name="queries"></a> SPARQL Queries
 You can find some example SPARQL queries here:
 
 ##### Example query #1: List all resources from a particular type
@@ -123,14 +128,6 @@ The following query adds all linked datasets to the previous query #3. [Result](
            ?var_id <https://data.gesis.org/gesiskg/schema/dataset> ?dataset_id .
 	} 
 
-### Download
-
-The VADIS Knowledge Graph is available for download as a full RDF dump as well as its underlying ontology: [VADIS KG](downloads/VADISKG.zip)
-
-The VADIS KG will be fully integrated into the [GESIS Knowledge Graph](https://data.gesis.org/gesiskg/).
-
-## <a name="license"></a> License
-The VADIS Knowledge Graph is available for access, download, and reuse under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license since the license of some input sources is CC-BY as well.
 
 ## <a name="contact"></a> Contact
 * Benjamin Zapilko, benjamin(dot)zapilko(at)gesis(dot)org
